@@ -1,6 +1,6 @@
 ## DS Harness Desktop v1.0.0
 
-首个 Windows 桌面版本。
+首个方便USTC 校内API接口的 Windows 桌面版本。
 
 ### 功能
 
